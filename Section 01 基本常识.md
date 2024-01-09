@@ -93,20 +93,20 @@
 | 过去他在那家工厂工作。<br />He worked in that factory in the past. |                                                              |
 |   我需要你马上停下来。<br />I need you to stop right now.    |                 right now “此刻，立即，目前”                 |
 |    前天下雪了。<br />It snowed the day before yesterday.     |                                                              |
-| 她将在后天到达。<br />She will arrive the day after tomorrow. | arrive in + 大地方（城市，国家等）<br />arrive at + 小地点（车站，公园等） |
+| 她将在后天到达。<br />She will arrive the day after tomorrow. | arrive in + 大地方(城市，国家等)<br />arrive at + 小地点(车站，公园等) |
 |       我稍后会给你打电话。<br />I will call you later.       |                                                              |
 | 你有下个月的计划表吗？<br />Do you have next month's schedule? |                                                              |
 
 #### 场景对话
 
-|      人物      |                             对话                             |                   备注                   |
-| :------------: | :----------------------------------------------------------: | :--------------------------------------: |
-| Jim<br />吉姆  | You missed the meeting we had just now.<br />你错过了我们刚刚开的会议。 |                                          |
-| Mary<br />玛丽 | What? I thought it was later this evening.<br />什么？我原以为是今晚晚些时候开呢。 |                                          |
-| Jim<br />吉姆  | It's OK, but just make sure you don't miss the meeting the day after tomorrow.<br />没关系，但是确保你不错过后天的会议。 | miss [mis] <br />v. 错过（机会，车辆等） |
-| Mary<br />玛丽 |                 What time is it?<br />几点？                 |                                          |
-| Jim<br />吉姆  |             6p.m in the evening.<br />晚上六点。             |                                          |
-| Mary<br />玛丽 |          I'll be there on time.<br />我会准时参加。          |           on time “准时，按时”           |
+|      人物      |                             对话                             |                  备注                  |
+| :------------: | :----------------------------------------------------------: | :------------------------------------: |
+| Jim<br />吉姆  | You missed the meeting we had just now.<br />你错过了我们刚刚开的会议。 |                                        |
+| Mary<br />玛丽 | What? I thought it was later this evening.<br />什么？我原以为是今晚晚些时候开呢。 |                                        |
+| Jim<br />吉姆  | It's OK, but just make sure you don't miss the meeting the day after tomorrow.<br />没关系，但是确保你不错过后天的会议。 | miss [mis] <br />v. 错过(机会，车辆等) |
+| Mary<br />玛丽 |                 What time is it?<br />几点？                 |                                        |
+| Jim<br />吉姆  |             6p.m in the evening.<br />晚上六点。             |                                        |
+| Mary<br />玛丽 |          I'll be there on time.<br />我会准时参加。          |          on time “准时，按时”          |
 
 ### 日期
 
@@ -144,7 +144,7 @@
 | 我等不及想要周末早点到来。<br />I can't wait for the weekend to arrive. |  can't wait for sth. / to do sth.<br />“等不及某物/做某事”   |
 |     我们周二见面可以吗？<br />Can we meet up on Tuesday?     |                                                              |
 |  星期五的聚会是在哪里？<br />Where is the party on Friday?   |                                                              |
-|     上周日我住院了。<br />I was in hospital last Sunday.     |    in hospital “住院”<br />（in the hospital “在医院里”）    |
+|     上周日我住院了。<br />I was in hospital last Sunday.     |     in hospital “住院”<br />(in the hospital “在医院里”)     |
 |     今年一月这么冷。<br />This January has been so cold.     |                                                              |
 | 二月份我要回家度假。<br />I'll go home for holiday in February. |                                                              |
 | 每年七月我们全家去度假。<br />Every July our family goes on holiday. | family 单复数同形<br />指家庭时，是个整体概念，谓语用单数<br />指家人时为复数概念，谓语用复数。 |
@@ -201,7 +201,7 @@
 |  你看书的背面了吗？<br />Did you see the back of the book?   |                                                              |
 | 苏珊左边的男孩是谁？<br />Who's the boy to the left of Susan? |                                                              |
 |    我的鞋在椅子下面。<br />My shoes are under the chair.     |                under 强调在物体垂直的正下方。                |
-| 在大楼前面等我。<br />Wait for me in front of the building.  | in front of “在……的前面”指在某物整体的前方<br />（in the front of “在……的前部”指在某物里面的前部） |
+| 在大楼前面等我。<br />Wait for me in front of the building.  | in front of “在……的前面”指在某物整体的前方<br />(in the front of “在……的前部”指在某物里面的前部) |
 |       我就停在你后面。<br />I parked right behind you.       |               right [rait]<br />ad. 恰巧，刚好               |
 
 #### 场景对话
@@ -250,13 +250,13 @@
 |            我们有两个家。<br />We have two homes.            |                                                              |
 |       他们有三个孩子。<br />They have three children.        |                                                              |
 |     我们需要一张四人桌。<br />We need a table for four.      |                                                              |
-|     还有八集。<br />There are eight more episodes left.      | episode ['episəud]<br />n. （电视剧）一集；（小说等）片段，插曲 |
-| 我们打算去九号房间。<br />We are going to room number nine.  | be going to 表示按计划、安排将要发生的动作（多用于口语）。<br />Room 9和the ninth room 都可意为“九号房间”。 |
+|     还有八集。<br />There are eight more episodes left.      | episode ['episəud]<br />n. (电视剧)一集；(小说等)片段，插曲  |
+| 我们打算去九号房间。<br />We are going to room number nine.  | be going to 表示按计划、安排将要发生的动作(多用于口语)。<br />Room 9和the ninth room 都可意为“九号房间”。 |
 |       你有十根胡萝卜吗？<br />Do you have ten carrots?       |                                                              |
 | 这本书有十一个章节。<br />There are eleven chapters in this book. |                                                              |
 | 十四岁时我去了那里。<br />I went there when I was fourteen.  |                                                              |
 |     下周她就十六岁了。<br />She turns sixteen next week.     |     turn 在此相当于become。<br />take one's turn “轮流”      |
-| 十九人会来参加我们的家庭聚会。<br />Nineteen people will come to our family reunion. | reunion [ri:'ju:njən]<br />n. （亲友等）团圆，聚会（前缀re- 有“再、重新”之意） |
+| 十九人会来参加我们的家庭聚会。<br />Nineteen people will come to our family reunion. | reunion [ri:'ju:njən]<br />n. (亲友等)团圆，聚会(前缀re- 有“再、重新”之意) |
 
 #### 场景对话
 
@@ -302,12 +302,12 @@
 |                             例句                             |                             备注                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 我们是二十一岁的时候结婚的。<br />We were married when we were twenty-one. |                                                              |
-|     我需要三十多个盘子。<br />I need over thirty plates.     |   over ['əuvə]<br />prep. 多于，超过（时间、数量、花费等）   |
+|     我需要三十多个盘子。<br />I need over thirty plates.     |    over ['əuvə]<br />prep. 多于，超过(时间、数量、花费等)    |
 | 今晚应该有大约五十人去那儿。<br />There should be about fifty people there tonight. |                                                              |
 |    我爷爷今年六十岁。<br />My grandpa is sixty this year.    |                                                              |
 |  我认为他奶奶八十岁了。<br />I think his grandma is eighty.  |                                                              |
 |  有一百万人在那里。<br />There were a million people there.  |                                                              |
-|      她又是第一名。<br />She came in first place again.      | in first place “第一名”<br />（in the first place “首先，起初”） |
+|      她又是第一名。<br />She came in first place again.      | in first place “第一名”<br />(in the first place “首先，起初”) |
 |  这是我们第二次来这里。<br />This is our second time here.   |                                                              |
 | 这是我第三次告诉你了。<br />This is the third time I've told you. |                                                              |
 |   这是他们的第四个孩子。<br />This is their fourth child.    |                                                              |
@@ -361,20 +361,20 @@
 | 我是唯一一个盛装打扮的。<br />I was the only one who dressed up. |              dress up<br />“盛装打扮，穿上正装”              |
 | 我说话没有你的一半多。<br />I don't talk half as much as you. |                 as much as<br />“与……一样多”                 |
 | 那里有几个有趣的人。<br />There were several interesting people there. |                                                              |
-| 我只想要一杯浓咖啡。<br />I'd like a single shot of espresso. |         a shot of <br />“少量饮料，（尤其）少量烈酒”         |
+| 我只想要一杯浓咖啡。<br />I'd like a single shot of espresso. |          a shot of <br />“少量饮料，(尤其)少量烈酒”          |
 |          再添点儿水。<br />Add a little more water.          |                                                              |
 | 我没有足够的钢笔供每个人使用。<br />I don't have enough pens for everyone. | enough 修饰名词时，放在名词前面；<br />修饰形容词、副词时要放在其后面，如 good enough “足够好” |
 
 #### 场景对话
 
-|      人物       |                             对话                             |                         备注                          |
-| :-------------: | :----------------------------------------------------------: | :---------------------------------------------------: |
-|   Kim<br />金   | What's the total amount for a dozen eggs?<br />一打鸡蛋总共多少钱？ |                                                       |
-| Gerry<br />格里 | 3 dollars. But I can sell you the whole carton for half the price.<br />三美元。但是我可以半价把整盒卖给你。 |                                                       |
-|   Kim<br />金   |      How many are there in a carton?<br />一盒有多少？       | carton ['kɑ:tən]<br />n. （尤指装食品或液体的）硬纸盒 |
-| Gerry<br />格里 | Enough to feed your family for a long time.<br />足够让你一家吃上很长一段时间。 |                                                       |
-|   Kim<br />金   | That's too much. A dozen is enough.<br />太多了。一打就够了。 |                                                       |
-| Gerry<br />格里 |             OK, no problem.<br />好的，没问题。              |                                                       |
+|      人物       |                             对话                             |                        备注                         |
+| :-------------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+|   Kim<br />金   | What's the total amount for a dozen eggs?<br />一打鸡蛋总共多少钱？ |                                                     |
+| Gerry<br />格里 | 3 dollars. But I can sell you the whole carton for half the price.<br />三美元。但是我可以半价把整盒卖给你。 |                                                     |
+|   Kim<br />金   |      How many are there in a carton?<br />一盒有多少？       | carton ['kɑ:tən]<br />n. (尤指装食品或液体的)硬纸盒 |
+| Gerry<br />格里 | Enough to feed your family for a long time.<br />足够让你一家吃上很长一段时间。 |                                                     |
+|   Kim<br />金   | That's too much. A dozen is enough.<br />太多了。一打就够了。 |                                                     |
+| Gerry<br />格里 |             OK, no problem.<br />好的，没问题。              |                                                     |
 
 ### 度量衡
 
@@ -407,14 +407,14 @@
 
 |                             例句                             |                             备注                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|      向前走大约十码。<br />Go forward about ten yards.       | forward ['fɔ:wəd]<br />ad. 向前，前进地<br />（反义词为backward “向后，反向地”） |
+|      向前走大约十码。<br />Go forward about ten yards.       | forward ['fɔ:wəd]<br />ad. 向前，前进地<br />(反义词为backward “向后，反向地”) |
 |    游泳池有五十米长。<br />The pool is fifty meters long.    |                                                              |
 | 我们住的地方只相差大约一公里远。<br />We only live about a kilometer away. |                                                              |
 | 花园大约两平方米。<br />The garden is about two square meters. |                                                              |
 |   那一瓶有多少盎司？<br />How many ounces is that bottle?    |                                                              |
-|       我们有一磅面粉。<br />We have a pound of flour.        |   flour ['flauə]<br />n. 面粉<br />（同音词为flower “花”）   |
+|       我们有一磅面粉。<br />We have a pound of flour.        |    flour ['flauə]<br />n. 面粉<br />(同音词为flower “花”)    |
 | 你能给我十克这种香料吗？<br />Can you get me ten grams of this spice? |                                                              |
-|     这个婴儿重三公斤！<br />The baby weighs 3 kilograms!     | weigh [wei]<br />v. 称重量<br />（名词形式为weight “重量”）  |
+|     这个婴儿重三公斤！<br />The baby weighs 3 kilograms!     |  weigh [wei]<br />v. 称重量<br />(名词形式为weight “重量”)   |
 |        我需要一升牛奶。<br />I need a liter of milk.         |                                                              |
 | 我们喝了大概三加仑啤酒。<br />We drank about three gallons of beer. |                                                              |
 
@@ -459,18 +459,18 @@
 
 #### 场景例句
 
-|                             例句                             |                             备注                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 你旅行有人民币吗？<br />Do you have any Chinese yuan for the trip? |                                                              |
-| 今年美元会继续升值。<br />The appreciation of US dollar will continue this year. |                                                              |
-|        只要五十美分。<br />It only costs fifty cents.        | cost [kɔst]<br />v. 花费（时间、金钱等）<br />（主语一般为物） |
-|    便士上是谁的照片？<br />Whose picture is on the penny?    |                                                              |
-| 加元真的很强大。<br />The Canadian dollar is really strong.  |                                                              |
-| 如果你用日元买会更便宜。<br />If you buy it in Japanese yen it'll be cheaper. |         “in + 货币”<br />“用某种货币形式（付款等）”          |
-| 那会花费多少韩元？<br />How many Korean won would that cost? |                                                              |
-| 我想兑换一些新币。<br />I want to change some Singapore dollars. |              change [tʃeinʤ]<br />v. 改变，兑换              |
-| 旅馆将花费五十马来西亚林吉特。<br />The hostel will cost 50 Malaysian ringgit. |                                                              |
-|     你见过泰铢吗？<br />Have you ever seen a Thai baht?      |                                                              |
+|                             例句                             |                            备注                            |
+| :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 你旅行有人民币吗？<br />Do you have any Chinese yuan for the trip? |                                                            |
+| 今年美元会继续升值。<br />The appreciation of US dollar will continue this year. |                                                            |
+|        只要五十美分。<br />It only costs fifty cents.        | cost [kɔst]<br />v. 花费(时间、金钱等)<br />(主语一般为物) |
+|    便士上是谁的照片？<br />Whose picture is on the penny?    |                                                            |
+| 加元真的很强大。<br />The Canadian dollar is really strong.  |                                                            |
+| 如果你用日元买会更便宜。<br />If you buy it in Japanese yen it'll be cheaper. |         “in + 货币”<br />“用某种货币形式(付款等)”          |
+| 那会花费多少韩元？<br />How many Korean won would that cost? |                                                            |
+| 我想兑换一些新币。<br />I want to change some Singapore dollars. |             change [tʃeinʤ]<br />v. 改变，兑换             |
+| 旅馆将花费五十马来西亚林吉特。<br />The hostel will cost 50 Malaysian ringgit. |                                                            |
+|     你见过泰铢吗？<br />Have you ever seen a Thai baht?      |                                                            |
 
 #### 场景对话
 
@@ -521,7 +521,7 @@
 |  我身上没有零钱。<br />I don't have any small change on me.  |       smallchange<br />表示小面值的零钱，很小的零钱。        |
 |    您能给我写一张支票吗？<br />Can you write me a check?     |                                                              |
 |          你用哪个银行？<br />Which bank do you use?          |                                                              |
-|  我想申请一个账户。<br />I'd like to apply for an account.   | apply for sth.<br />“申请某物”<br />（apply to sb.“向某人申请”） |
+|  我想申请一个账户。<br />I'd like to apply for an account.   | apply for sth.<br />“申请某物”<br />(apply to sb.“向某人申请”) |
 |      我需要知道余额。<br />I need to know the balance.       |                                                              |
 | 你可以在那个窗口兑换钱。<br />You can change your money at that window. |                                                              |
 
@@ -583,14 +583,14 @@
 
 #### 场景对话
 
-|      人物       |                             对话                             |                            备注                             |
-| :-------------: | :----------------------------------------------------------: | :---------------------------------------------------------: |
-|  Jim<br />吉姆  | What's the weather forecast for the next few days?<br />未来几天的天气预报是什么？ |                                                             |
-| Susan<br />苏珊 |      It's cloudy to rainy tonight.<br />今晚多云转雨。       |                                                             |
-|  Jim<br />吉姆  | Is there going to be a rainstorm or just a drizzle?<br />暴雨？还是毛毛雨而已？ |    be going to<br />表示根据某种迹象即将发生的天气变化。    |
-| Susan<br />苏珊 | Drizzle. But there's supposed to be a lot of lightning.<br />毛毛雨。但是估计有很多闪电。 | a lot of “很多”<br />（既可以修饰可数词也可修饰不可数名词） |
-|  Jim<br />吉姆  |  And with lightning comes thunder.<br />伴随闪电会有雷声。   |                                                             |
-| Susan<br />苏珊 | After that there will be a beautiful rainbow.<br />之后会有美丽的彩虹。 |                                                             |
+|      人物       |                             对话                             |                           备注                            |
+| :-------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
+|  Jim<br />吉姆  | What's the weather forecast for the next few days?<br />未来几天的天气预报是什么？ |                                                           |
+| Susan<br />苏珊 |      It's cloudy to rainy tonight.<br />今晚多云转雨。       |                                                           |
+|  Jim<br />吉姆  | Is there going to be a rainstorm or just a drizzle?<br />暴雨？还是毛毛雨而已？ |   be going to<br />表示根据某种迹象即将发生的天气变化。   |
+| Susan<br />苏珊 | Drizzle. But there's supposed to be a lot of lightning.<br />毛毛雨。但是估计有很多闪电。 | a lot of “很多”<br />(既可以修饰可数词也可修饰不可数名词) |
+|  Jim<br />吉姆  |  And with lightning comes thunder.<br />伴随闪电会有雷声。   |                                                           |
+| Susan<br />苏珊 | After that there will be a beautiful rainbow.<br />之后会有美丽的彩虹。 |                                                           |
 
 ### 天气(2)
 
@@ -621,179 +621,186 @@
 
 #### 场景例句
 
-|                          例句                           | 备注 |
-| :-----------------------------------------------------: | :--: |
-|  今天的风真大。<br />The wind is really strong today.   |      |
-| 有一个飓风南下。<br />There was a hurricane down south. |      |
-|                                                         |      |
-|                                                         |      |
-|                                                         |      |
-|                                                         |      |
-|                                                         |      |
-|                                                         |      |
-|                                                         |      |
-|                                                         |      |
+|                             例句                             |                             备注                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     今天的风真大。<br />The wind is really strong today.     |                                                              |
+|   有一个飓风南下。<br />There was a hurricane down south.    |          down [daun] south<br />ad. 向南方，在南方           |
+|        今天的雾真糟糕。<br />The fog is so bad today.        | so 和such 都意为“如此，这样”。<br />但是so 后面接形容词或副词，such 后面接名词，如such a good girl。 |
+|   昨晚有点小霜。<br />There was a little frost last night.   |                                                              |
+|   小心路上的冰。<br />Watch out for that ice on the road.    |      watch out for<br />look out for<br />“小心，留意”       |
+|    南方现在天气炎热。<br />The south has hot weather now.    |                                                              |
+| 我们终于有些凉爽的天气了。<br />We're finally getting some cool weather. |                                                              |
+|    今天的温度是多少？<br />What's the temperature today?     |                                                              |
+|       晚上几度？<br />How many degrees is it at night?       |                                                              |
+| 今天外面有三十摄氏度！<br />It's 30 degrees Celsius out today! |                                                              |
 
 #### 场景对话
+
+|     人物      |                             对话                             |                             备注                             |
+| :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Eve<br />伊芙 |            It's too cold here.<br />这里太冷了。             |                                                              |
+| Jim<br />吉姆 |            What's the temperature?<br />几度啊？             |                                                              |
+| Eve<br />伊芙 | The water has frozen so it's must below zero degree.<br />水已经结冰了，所以一定低于零度。 |                                                              |
+| Jim<br />吉姆 | Whoa, that's cold. Here it's so warm.<br />哇，那很冷啊。这里很温暖。 |                                                              |
+| Eve<br />伊芙 | I'm coming to visit you. I miss the hot weather very much.<br />我要去拜访你。我很想念炎热的天气。 | miss [mis]<br />v. 想念，怀念<br />(后面可接名词，代词或动词ing形式) |
+| Jim<br />吉姆 |       OK. I'll be waiting for you.<br />好的。我等你。       |                 wait for sb.<br />“等待某人”                 |
 
 ### 颜色
 
 #### 场景词汇
 
-| 单词 | 音标 | 词性 | 中文 |
-| :--: | :--: | :--: | :--: |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+|    单词     | 音标 | 词性 | 中文 |
+| :---------: | :--: | :--: | :--: |
+|    black    |      |      |      |
+|    grey     |      |      |      |
+|    white    |      |      |      |
+|    brown    |      |      |      |
+|     tan     |      |      |      |
+|    pink     |      |      |      |
+|     red     |      |      |      |
+|   orange    |      |      |      |
+|   yellow    |      |      |      |
+|    green    |      |      |      |
+|    blue     |      |      |      |
+|   purple    |      |      |      |
+|   violet    |      |      |      |
+|    gold     |      |      |      |
+|   silver    |      |      |      |
+|   maroon    |      |      |      |
+|    coral    |      |      |      |
+| olive green |      |      |      |
+|  navy blue  |      |      |      |
+|    ivory    |      |      |      |
 
 #### 场景例句
 
-| 例句 | 备注 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|                             例句                             |                             备注                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|      我的车是黑色的那辆。<br />My car is the black one.      |                                                              |
+| 我能借你的棕色毛衣吗？<br />Can I borrow your brown sweater? |                                                              |
+| 她打算把头发染成粉红色。<br />She's going to dye her hair pink. |                                                              |
+| 我到处都找不到我的红帽子。<br />I can't find my red hat anywhere. | anywhere ['eniwεə]<br />ad. 任何地方，无论何处<br />(一般用于否定句和疑问句) |
+| 是那个戴黄色帽子的那个人。<br />It's the man with the yellow hat. |           with 后面接服饰时表示“穿着……，戴着……”。            |
+|  他有一双梦幻般绿色的眼睛。<br />He has dreamy green eyes.   |           dreamy ['dri:mi]<br />a. 空幻的，梦想的            |
+| 我把我的房间墙壁漆成了紫色。<br />I painted my room walls purple. |                                                              |
+|    你的银色鞋子在哪里？<br />Where are your silver shoes?    |                                                              |
+| 这条项链配我的珊瑚色裙子吗？<br />Does this necklace match my coral dress? |           match [mætʃ]<br />v. (使)相配，(使)对称            |
+|  看，他穿着一身海军蓝。<br />Look, he is all in navy blue.   |        “in + 衣服 / 颜色”意为“穿……衣服/颜色的衣服”。         |
 
 #### 场景对话
 
-| 人物 | 对话 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|      人物       |                             对话                             |                 备注                  |
+| :-------------: | :----------------------------------------------------------: | :-----------------------------------: |
+| John<br />约翰  | If you don't like the purple dress we also have violet , orange and pink.<br />如果您不喜欢紫色的衣服，我们还有紫罗兰，橘色和粉红色的。 |                                       |
+| Kelly<br />凯莉 | I think I like something white with a touch of green.<br />我想我喜欢白色再带点绿色的。 | a touch of<br />some<br /> “有一点儿” |
+| John<br />约翰  | Great. That dress brings out your brown eyes.<br />很好。那件衣服很称您的棕色眼睛。 |     bring out<br />“使显出，阐明”     |
+| Kelly<br />凯莉 |                You're right.<br />你说得对。                 |                                       |
+| John<br />约翰  |         Just telling the truth.<br />实话实说而已。          |                                       |
 
 ### 环境
 
 #### 场景词汇
 
-| 单词 | 音标 | 词性 | 中文 |
-| :--: | :--: | :--: | :--: |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+|      单词      | 音标 | 词性 | 中文 |
+| :------------: | :--: | :--: | :--: |
+|  environment   |      |      |      |
+|    pollute     |      |      |      |
+|   pollution    |      |      |      |
+|   pollutant    |      |      |      |
+|     toxic      |      |      |      |
+|      smog      |      |      |      |
+|   radiation    |      |      |      |
+|     ozone      |      |      |      |
+|     oxygen     |      |      |      |
+|     litter     |      |      |      |
+|     waste      |      |      |      |
+|     waste      |      |      |      |
+|    recycle     |      |      |      |
+|      gas       |      |      |      |
+|      oil       |      |      |      |
+|      coal      |      |      |      |
+|     power      |      |      |      |
+|     energy     |      |      |      |
+|  solar energy  |      |      |      |
+| nuclear energy |      |      |      |
 
 #### 场景例句
 
-| 例句 | 备注 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|                             例句                             |                             备注                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    环境正在被破坏。<br />The environment is being ruined.    |                                                              |
+| 这个城市的污染是一个非常严重的问题。<br />The pollution in this city is a very serious problem. |                                                              |
+| 因为烟雾，我什么也看不见。<br />I couldn't see anything because of the smog. |                                                              |
+| 我们的臭氧层处于危险之中。<br />Our ozone layer is in danger. |                 in danger<br />“处于危险中”                  |
+|     这个包装是一种浪费。<br />This packaging is a waste.     |                                                              |
+| 你应该回收利用那个玻璃瓶。<br />You should recycle that glass bottle. |                                                              |
+| 我们需要把车加满气。<br />We need to fill the car with gas.  |                                                              |
+| 他们停止了用煤取暖。<br />They stopped using coal for heating. | stop doing sth.“停止做某事”<br />（stop to do sth.“停下来去做另一件事”） |
+|  关灯节约能源。<br />Save energy by turning off the light.   |         turn off<br />“关掉（灯，煤气，水，电视等）”         |
+| 这个工厂用太阳能运转。<br />This factory is run by solar energy. |                                                              |
 
 #### 场景对话
 
-| 人物 | 对话 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|      人物       |                             对话                             |                             备注                             |
+| :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  Tim<br />蒂姆  |            There's so much pollution in Beijing.             |                                                              |
+| Nancy<br />南希 | Yeah, they use so much coal to power the energy people need that it creates a lot of toxic smog. |                                                              |
+|  Tim<br />蒂姆  |             They should convert to solar energy.             |                convert to<br />“转换为，改为”                |
+| Nancy<br />南希 |    They're trying to clean up the environment right now.     | clean up<br />“清理，打扫干净”<br />（宾语是代词时要放在两词之间） |
+|  Tim<br />蒂姆  |                   They need to do better.                    |                                                              |
 
 ### 物质与材料
 
 #### 场景词汇
 
-| 单词 | 音标 | 词性 | 中文 |
-| :--: | :--: | :--: | :--: |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+|   单词   | 音标 | 词性 | 中文 |
+| :------: | :--: | :--: | :--: |
+|  matter  |      |      |      |
+| element  |      |      |      |
+| plastic  |      |      |      |
+|  metal   |      |      |      |
+|   mine   |      |      |      |
+| mineral  |      |      |      |
+|   gold   |      |      |      |
+|  silver  |      |      |      |
+|  copper  |      |      |      |
+|   iron   |      |      |      |
+| chemical |      |      |      |
+|   atom   |      |      |      |
+| molecule |      |      |      |
+| density  |      |      |      |
+|  solid   |      |      |      |
+|  liquid  |      |      |      |
+|  powder  |      |      |      |
+|   pure   |      |      |      |
+|  mixed   |      |      |      |
+| mixture  |      |      |      |
 
 #### 场景例句
 
-| 例句 | 备注 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|                             例句                             |                             备注                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 那个袋子是用塑料做的。<br />That bag is made out of plastic . | be made (out) of<br />“由……制成”，用于看得出材质的情况，<br />看不出材料时用 be made from。 |
+| 她对很多金属都过敏。<br />She's allergic to a lot of metals. |                                                              |
+| 这些石头来自哪个矿？<br />Which mine did these stones come from? |             come from<br />be from<br />“来自……”             |
+| 在水中我可以尝出矿物质。<br />I can taste the minerals in the water. |                                                              |
+|  你的戒指是纯金的吗？<br />Is your ring out of solid gold?   |                                                              |
+| 这座雕像是用铜做的。<br />The statue was made out of copper. |                                                              |
+|    我爱用铁锅烹饪。<br />I love cooking with an iron pan.    |                                                              |
+| 那些化学制品的味道真的很大。<br />The smell of those chemicals is really strong. |               smell [smel]<br />n. 气味，嗅觉                |
+|   这些耳环是纯银的。<br />These earrings are pure silver.    |                                                              |
+|     这是哪种混合物？<br />What kind of mixture is this?      |                                                              |
 
 #### 场景对话
 
-| 人物 | 对话 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|       人物       |                             对话                             |
+| :--------------: | :----------------------------------------------------------: |
+|  Liz<br />丽兹   | What metal is this door made of?<br />这扇门是用什么金属做的？ |
+| Victor<br />维特 | It's a mixture of metal, iron and copper.<br />是铁和铜的混合金属。 |
+|  Liz<br />丽兹   | But if they're mixed , doesn't that make the door weak?<br />但是如果它们混合在一起，门会不会不结实？ |
+| Victor<br />维特 | No, the atoms have a higher density so it's more solid.<br />不会，原子有更高的密度，所以更坚实。 |
+|  Liz<br />丽兹   |   Interesting. OK, I'll take it.<br />有趣儿。好，我买了。   |
+| Victor<br />维特 |                       OK.<br />好的。                        |
 
 ## Part 5 应急常识
 
@@ -801,104 +808,104 @@
 
 #### 场景词汇
 
-| 单词 | 音标 | 词性 | 中文 |
-| :--: | :--: | :--: | :--: |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+|   单词    | 音标 | 词性 | 中文 |
+| :-------: | :--: | :--: | :--: |
+|   help    |      |      |      |
+| emergency |      |      |      |
+| hospital  |      |      |      |
+|   sick    |      |      |      |
+|  injured  |      |      |      |
+|  breathe  |      |      |      |
+|   bleed   |      |      |      |
+|   faint   |      |      |      |
+|   coma    |      |      |      |
+| terrorist |      |      |      |
+|  attack   |      |      |      |
+| threaten  |      |      |      |
+|    rob    |      |      |      |
+|  robber   |      |      |      |
+|   shot    |      |      |      |
+|  hostage  |      |      |      |
+|  kidnap   |      |      |      |
+| kidnapper |      |      |      |
+|   lost    |      |      |      |
+|   slip    |      |      |      |
 
 #### 场景例句
 
-| 例句 | 备注 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|                             例句                             |                             备注                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   她现在需要你的帮助。<br />She needs your help right now.   |                                                              |
+| 我们需要带他去医院。<br />We need to take him to the hospital . |                                                              |
+|  她从小就生病。<br />She's been sick since she was a child.  |                                                              |
+| 没有人在爆炸中受伤。<br />No one was injured from the blast. |                 blast [blɑ:st]<br />n. 爆炸                  |
+|       你能给他止血吗？<br />Can you stop his bleeding?       |                                                              |
+| 男人从后面攻击受害者。<br />The man attacked the victim from behind. |                                                              |
+|      他们的房子被抢劫了。<br />Their house was robbed.       |                                                              |
+|     他腿部中了两枪。<br />He was shot in the leg twice.      | “一次”，“两次”的表达方式分别为once，twice。<br />三次以上的表达方式为“数字 +times”，如threetimes “三次”。 |
+| 人质十天后被释放了。<br />The hostages were released after ten days. | release [ri'li:s]<br />v. 释放，解放<br />“after + 一段时间”意为“……之后”，<br />表示以过去某时为起点的一段时间之后，用过去时态。 |
+|         他在冰上滑倒了。<br />He slipped on the ice.         |                                                              |
 
 #### 场景对话
 
-| 人物 | 对话 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|        人物        |                             对话                             |                备注                |
+| :----------------: | :----------------------------------------------------------: | :--------------------------------: |
+| Gerard<br />杰拉德 | Someone help ! There is an emergency.<br />快来人帮忙！有紧急情况。 |                                    |
+|  Nurse<br />护士   |                  What is it?<br />怎么啦？                   |                                    |
+| Gerard<br />杰拉德 | My son is bleeding a lot. He's not breathing.<br />我儿子正在大量出血。他不呼吸了。 |                                    |
+|  Nurse<br />护士   | It's OK. He's in a coma. Was he shot at?<br />没事儿。他是昏迷了。他中枪了？ |                                    |
+| Gerard<br />杰拉德 | Yes, someone attacked him on the street and he slipped and lost consciousness.<br />是的，有人在大街上攻击他，他滑倒了，失去了知觉。 | lose consciousness<br />“失去知觉” |
+|  Nurse<br />护士   | We'll take care of him. Not to worry.<br />我们会照顾他。不用担心。 |                                    |
 
 ### 救助
 
 #### 场景词汇
 
-| 单词 | 音标 | 词性 | 中文 |
-| :--: | :--: | :--: | :--: |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+|     单词      | 音标 | 词性 | 中文 |
+| :-----------: | :--: | :--: | :--: |
+|     call      |      |      |      |
+|    family     |      |      |      |
+|   relative    |      |      |      |
+|    doctor     |      |      |      |
+|    police     |      |      |      |
+|   ambulance   |      |      |      |
+|   stretcher   |      |      |      |
+|    embassy    |      |      |      |
+|   passport    |      |      |      |
+|     press     |      |      |      |
+|     wound     |      |      |      |
+|     towel     |      |      |      |
+|     mask      |      |      |      |
+|     gauze     |      |      |      |
+|    bandage    |      |      |      |
+|    bind up    |      |      |      |
+|   first aid   |      |      |      |
+| first-aid kit |      |      |      |
+|   band-aid    |      |      |      |
+|  thermometer  |      |      |      |
 
 #### 场景例句
 
-| 例句 | 备注 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|                             例句                             |                        备注                        |
+| :----------------------------------------------------------: | :------------------------------------------------: |
+|        明天给我打电话。<br />Give me a call tomorrow.        |                                                    |
+|  你在附近有什么家人吗？<br />Do you have any family nearby?  |      nearby ['niəbai]<br />ad. 附近地，不远地      |
+|         警察逮捕了他。<br />The police arrested him.         |                                                    |
+|       给救护车让路。<br />Make way for the ambulance.        |            make way for<br />“给……让路”            |
+| 他们把他抬到担架上。<br />They brought him in on a stretcher. |                                                    |
+|   我需要看一下您的护照。<br />I need to see your passport.   |                                                    |
+|      轻按五分钟。<br />Press lightly for five minutes.       |                                                    |
+| 那位戴口罩的女士病了。<br />The lady wearing a mask is ill.  |      现在分词（短语）作定语时表示主动，进行。      |
+| 你把急救箱放哪里了？<br />Where did you put the first-aid kit? |                                                    |
+| 我们会在伤口上贴一个创可贴。<br />We'll put a band-aid on the cut. | cut [kʌt]<br />n. 伤口；（锋利物留下的）开口，破口 |
 
 #### 场景对话
 
-| 人物 | 对话 |
-| :--: | :--: |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+|         人物          |                             对话                             |
+| :-------------------: | :----------------------------------------------------------: |
+|      Kim<br />金      | Hello, this is the Canada embassy . Are you a relative of Dave Johnson?<br />你好，这里是加拿大使馆。您是戴夫·约翰逊的亲属吗？ |
+| Leopold<br />利奥波德 |         Yes, we're family.<br />是的，我们是一家人。         |
+|      Kim<br />金      | I'm calling because he was taken in an ambulance to the hospital.<br />我打电话是因为他被救护车送去医院了。 |
+| Leopold<br />利奥波德 |                Is he alright?<br />他还好吗？                |
+|      Kim<br />金      | He got first-aid attention and we bandaged him up, so he's fine.<br />他得到了急救，我们给他包扎了，所以他还好。 |
+| Leopold<br />利奥波德 |              Oh, thank god.<br />哦，感谢上帝。              |
